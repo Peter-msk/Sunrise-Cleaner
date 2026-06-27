@@ -1,1 +1,9 @@
+Sunrise Cleaner 공지사항
 
+현재 최신 버전: v2.5.8
+
+- 공지사항 및 업데이트 확인 구조를 GitHub Pages 조회 방식으로 정리했습니다.
+- 프로그램은 https://peter-msk.github.io/Sunrise-Cleaner/latest.json 및 notice.txt를 기준으로 조회합니다.
+- 프로그램 실행 중 1시간마다 공지사항을 확인합니다.
+- 변경사항이 있으면 Windows 알림으로 1회 안내합니다.
+- 실제 업데이트는 사용자가 [업데이트 확인] 버튼을 눌렀을 때만 가능합니다.

@@ -1,1 +1,13 @@
-
+{
+  "app_name": "Sunrise Cleaner",
+  "product_id": "SUNRISE-CLEANER-WIN-DESKTOP",
+  "company": "Sunrise Group",
+  "version": "2.5.8",
+  "channel": "stable",
+  "security_profile": "ENTERPRISE_SAFE_UPDATE_POLICY",
+  "update_policy": "SAFE_MANUAL_UPDATE_CHECK",
+  "runtime_policy": "NO_POWERSHELL_NO_RUNTIME_REGISTRY",
+  "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner",
+  "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner",
+  "notes": "Sunrise Capture/PDF Editor와 동일한 GitHub Pages 조회 구조로 정리했습니다. 런타임 공지/업데이트 조회는 https://peter-msk.github.io/Sunrise-Cleaner/latest.json 및 notice.txt 기준으로 수행하며, 실제 업데이트는 사용자가 업데이트 확인 버튼을 누를 때만 가능합니다."
+}
