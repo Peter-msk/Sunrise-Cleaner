@@ -1,2 +1,0 @@
-# Sunrise-Cleaner
-Sunrise Cleaner
