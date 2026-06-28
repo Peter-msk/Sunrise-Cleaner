@@ -2,7 +2,7 @@
   "app_name": "Sunrise Cleaner",
   "product_id": "SUNRISE-CLEANER-WIN-DESKTOP",
   "company": "Sunrise Group",
-  "version": "2.6.2",
+  "version": "2.6.3",
   "channel": "stable",
   "security_profile": "ENTERPRISE_SAFE_UPDATE_POLICY",
   "update_policy": "SAFE_MANUAL_SINGLE_EXE_SELF_UPDATE",
@@ -11,6 +11,6 @@
   "code_signing_policy": "AUTHENTICODE_RECOMMENDED_AFTER_SUNRISE_GROUP_BUSINESS_REGISTRATION",
   "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/latest",
   "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/latest/download/Sunrise_cleaner.exe",
-  "sha256": "",
-  "notes": "Sunrise Cleaner v2.6.2: 업데이트 확인 화면을 사용자에게 필요한 주요 변경사항과 업데이트 정책 중심으로 정리했습니다. 내부 개발 흐름과 구현 세부정보는 사용자 화면에 표시하지 않도록 개선했습니다."
+  "sha256": "32342593d680c6ede4ce41a2a06a189ace08c0a1cb68a3873563b95e152747c0",
+  "notes": "Sunrise Cleaner v2.6.3: 빌드 후 실행파일의 무결성 값을 자동 계산해 배포용 latest.json과 notice.txt를 함께 생성하도록 개선했습니다."
 }
