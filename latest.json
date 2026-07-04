@@ -2,9 +2,9 @@
   "app_name": "Sunrise Cleaner",
   "product_id": "SUNRISE-CLEANER-WIN-DESKTOP",
   "company": "Sunrise Group",
-  "version": "2.6.5",
+  "version": "2.6.8",
   "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/latest",
   "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/latest/download/Sunrise_cleaner.exe",
-  "sha256": "c79141c70f0d4408ab6d2c39b17bde04e32b6c8fb24c9d2c2c86fba7d26e7139",
-  "notes": "Sunrise Cleaner v2.6.5: 배포 빌드 흐름을 한 번의 명령으로 정리하고, 실행파일 생성 후 업데이트 안내 파일이 자동 작성되도록 개선했습니다."
+  "sha256": "d317b63a0b6c353964f92edfd306ae6b9350e247c4ecacc44e6afd9351ada6b2",
+  "notes": "Sunrise Cleaner v2.6.8: 업데이트 확인과 공지사항 보기 버튼을 분리하고, 업데이트 보류 시 공지사항 창이 자동으로 표시되지 않도록 수정했습니다."
 }
