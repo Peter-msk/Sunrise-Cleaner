@@ -2,9 +2,9 @@
   "app_name": "Sunrise Cleaner",
   "product_id": "SUNRISE-CLEANER-WIN-DESKTOP",
   "company": "Sunrise Group",
-  "version": "2.6.8",
+  "version": "2.7.2",
   "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/latest",
   "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/latest/download/Sunrise_cleaner.exe",
-  "sha256": "d317b63a0b6c353964f92edfd306ae6b9350e247c4ecacc44e6afd9351ada6b2",
-  "notes": "Sunrise Cleaner v2.6.8: 업데이트 확인과 공지사항 보기 버튼을 분리하고, 업데이트 보류 시 공지사항 창이 자동으로 표시되지 않도록 수정했습니다."
+  "sha256": "87fcf3dbbcd06db8da48857aaab9fd91f0826dfc70827e9c4c49909e2737a097",
+  "notes": "Sunrise Cleaner v2.7.2: 검토/삭제 경로명이 길어져도 실행 제어 버튼 영역과 하단 배치가 흔들리지 않도록 UI 레이아웃을 고정하고, 진행률 카드의 긴 경로명을 2~3줄로 표시하도록 개선했습니다."
 }
