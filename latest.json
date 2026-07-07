@@ -2,9 +2,9 @@
   "app_name": "Sunrise Cleaner",
   "product_id": "SUNRISE-CLEANER-WIN-DESKTOP",
   "company": "Sunrise Group",
-  "version": "2.7.2",
+  "version": "2.7.4",
   "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/latest",
   "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/latest/download/Sunrise_cleaner.exe",
-  "sha256": "87fcf3dbbcd06db8da48857aaab9fd91f0826dfc70827e9c4c49909e2737a097",
-  "notes": "Sunrise Cleaner v2.7.2: 검토/삭제 경로명이 길어져도 실행 제어 버튼 영역과 하단 배치가 흔들리지 않도록 UI 레이아웃을 고정하고, 진행률 카드의 긴 경로명을 2~3줄로 표시하도록 개선했습니다."
+  "sha256": "827e831dec401fed05ae603fc0e06d41b918027d529f53dae6739208894178c2",
+  "notes": "Sunrise Cleaner v2.7.4: 삭제 로그를 간단하게 줄이고, 삭제 로그 정책을 분리해 대량 삭제 중 UI 부담을 낮춘 구조 안정화 버전입니다."
 }
