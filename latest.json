@@ -2,9 +2,9 @@
   "app_name": "Sunrise Cleaner",
   "product_id": "SUNRISE-CLEANER-WIN-DESKTOP",
   "company": "Sunrise Group",
-  "version": "2.7.6",
+  "version": "2.8.0",
   "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/latest",
   "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/latest/download/Sunrise_cleaner.exe",
-  "sha256": "032a84e2b1d5b93611c10eedb420c0eed5a2cd6824fe09c41f8176822239f192",
-  "notes": "Sunrise Cleaner v2.7.6: 기본 실행을 일반 권한으로 전환하고, 관리자 필요 정리 기능을 선택적 관리자 모드로 분리한 NORMAL_FIRST 안정화 버전입니다."
+  "sha256": "0421830528844f71cf2444e11be8f55dd802559d78f05296ab2ea15604660e21",
+  "notes": "Sunrise Cleaner v2.8.0: 후보 용량 계산의 디스크 경합과 UI 정체를 줄이고, 안전한 사용자 임시영역을 추가하며 실제 권한 필요성에 따라 후보를 재분류한 성능·정책 개선 버전입니다."
 }
