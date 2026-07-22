@@ -23,8 +23,8 @@
   "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/latest",
   "release_notes_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/latest",
   "notice_url": "https://peter-msk.github.io/Sunrise-Cleaner/notice.txt",
-  "sha256": "a919448d5c03ccb9319c6342fcbc8fd0705e91e9cf0e6429d9846e293101cf07",
-  "file_size_bytes": 16535720,
+  "sha256": "df7594598e9a6b36b4736346b9feeaf7d2d7ae91f09e2930a4ee1fe9042172a6",
+  "file_size_bytes": 15664632,
   "max_file_size_bytes": 314572800,
   "requires_pe_validation": true,
   "requires_runtime_preflight": true,
@@ -35,7 +35,7 @@
   "authenticode_required": true,
   "expected_publisher": "Sunrise Group",
   "certificate_thumbprints": [
-    "CDD13A1A3D9402C210673F4CDEECF128210E29A3"
+    "B76BD472C714169773AFED9D3692216B3B5D1694"
   ],
   "signing_mode": "self-signed",
   "allow_approved_self_signed_untrusted_root": true,
