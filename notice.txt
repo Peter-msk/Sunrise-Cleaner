@@ -1,12 +1,3 @@
-[Sunrise Notice]
-ID=20260722-001
-TITLE=Sunrise Cleaner v2.9.0 업데이트 안내
-DATE=2026-07-22
-LEVEL=info
-TARGET_APP=SUNRISE-CLEANER-WIN-DESKTOP
-TARGET_VERSION=all
-SHOW_ONCE=true
-
 Sunrise Cleaner v2.9.0이 배포되었습니다.
 
 주요 개선사항
