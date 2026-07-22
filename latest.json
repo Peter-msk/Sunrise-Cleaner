@@ -1,14 +1,36 @@
 {
   "schema_version": "1.0",
+
   "app_id": "SUNRISE-CLEANER-WIN-DESKTOP",
+  "product_id": "SUNRISE-CLEANER-WIN-DESKTOP",
   "app_name": "Sunrise Cleaner",
+  "company": "Sunrise Group",
+  "security_profile": "ENTERPRISE_SAFE_UPDATE_POLICY",
+
+  "version": "2.9.0",
   "latest_version": "2.9.0",
   "latest_version_display": "v2.9.0",
   "release_date": "2026-07-22",
+
+  "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/tag/v2.9.0",
   "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/download/v2.9.0/Sunrise_cleaner.exe",
   "download_file_name": "Sunrise_cleaner.exe",
+
   "sha256": "5a0f3f34fc2130e3d1cf04db4a8581bc177485842d57f6998d6f6013ca4d23b6",
   "file_size_bytes": 15623546,
+  "max_file_size_bytes": 314572800,
+
+  "distribution_class": "executable",
+  "package_kind": "onefile",
+  "update_mode": "user_approved_transactional_self_replace",
+
+  "authenticode_required": true,
+  "requires_runtime_preflight": true,
+  "requires_health_marker": true,
+  "rollback_on_startup_failure": true,
+  "target_signature_required": true,
+  "unsigned_downgrade_allowed": false,
+
   "notice_url": "https://peter-msk.github.io/Sunrise-Cleaner/notice.txt",
   "minimum_supported_version": "2.8.0"
 }
