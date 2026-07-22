@@ -1,10 +1,14 @@
 {
+  "schema_version": "1.0",
+  "app_id": "SUNRISE-CLEANER-WIN-DESKTOP",
   "app_name": "Sunrise Cleaner",
-  "product_id": "SUNRISE-CLEANER-WIN-DESKTOP",
-  "company": "Sunrise Group",
-  "version": "2.8.0",
-  "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/latest",
-  "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/latest/download/Sunrise_cleaner.exe",
-  "sha256": "0421830528844f71cf2444e11be8f55dd802559d78f05296ab2ea15604660e21",
-  "notes": "Sunrise Cleaner v2.8.0: 후보 용량 계산의 디스크 경합과 UI 정체를 줄이고, 안전한 사용자 임시영역을 추가하며 실제 권한 필요성에 따라 후보를 재분류한 성능·정책 개선 버전입니다."
+  "latest_version": "2.9.0",
+  "latest_version_display": "v2.9.0",
+  "release_date": "2026-07-22",
+  "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/download/v2.9.0/Sunrise_cleaner.exe",
+  "download_file_name": "Sunrise_cleaner.exe",
+  "sha256": "5a0f3f34fc2130e3d1cf04db4a8581bc177485842d57f6998d6f6013ca4d23b6",
+  "file_size_bytes": 15623546,
+  "notice_url": "https://peter-msk.github.io/Sunrise-Cleaner/notice.txt",
+  "minimum_supported_version": "2.8.0"
 }
