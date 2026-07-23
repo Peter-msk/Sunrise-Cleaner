@@ -8,6 +8,6 @@ Sunrise Cleaner 공지사항
 - v2.8.0에서 사용한 latest.json 8필드 순서와 일반 텍스트 notice.txt 형식을 계속 유지합니다.
 - 공지사항 조회와 업데이트 확인이 서로 독립적으로 정상 작동하도록 다시 검증했습니다.
 - 업데이트는 사용자가 직접 승인한 경우에만 다운로드하고 적용합니다.
-- onefile 업데이트는 SHA-256을 확인한 뒤 기존 EXE를 Sunrise_cleaner.previous.exe로 한 세대 보존하고 교체합니다.
+- onefile 업데이트는 SHA-256을 확인한 뒤 기존 EXE를 Sunrise_cleaner.previous.exe로 임시 백업하고, 새 UI 정상 시작 후 자동 삭제합니다.
 - 후보 실행 preflight, health marker, 인증서 지문 런타임 검증 및 PKCS#7 매니페스트는 사용하지 않습니다.
 - 정리 작업은 검색과 검토 후 사용자가 선택하고 최종 승인한 항목만 삭제합니다.

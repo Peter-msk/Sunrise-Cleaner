@@ -5,6 +5,6 @@
   "version": "2.9.1",
   "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/tag/v2.9.1",
   "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/download/v2.9.1/Sunrise_cleaner.exe",
-  "sha256": "f04db940a3821baadb939e230d2640dae10fd79ebefeed1641574d6533337415",
+  "sha256": "a75c4d490918aa55b9732f07032c35a76b792ad62634da4652acd7f6f477eb81",
   "notes": "Sunrise Cleaner v2.9.1: 개발표준시방서 v1.7 적용, 공식 빌드 그룹서명, 레거시 업데이트·공지 형식 유지 및 onefile 교체 경로를 재검증한 배포 안정화 버전입니다."
 }
