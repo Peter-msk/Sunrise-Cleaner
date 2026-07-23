@@ -1,36 +1,10 @@
 {
-  "schema_version": "1.0",
-
-  "app_id": "SUNRISE-CLEANER-WIN-DESKTOP",
-  "product_id": "SUNRISE-CLEANER-WIN-DESKTOP",
   "app_name": "Sunrise Cleaner",
+  "product_id": "SUNRISE-CLEANER-WIN-DESKTOP",
   "company": "Sunrise Group",
-  "security_profile": "ENTERPRISE_SAFE_UPDATE_POLICY",
-
-  "version": "2.9.0",
-  "latest_version": "2.9.0",
-  "latest_version_display": "v2.9.0",
-  "release_date": "2026-07-22",
-
-  "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/tag/v2.9.0",
-  "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/download/v2.9.0/Sunrise_cleaner.exe",
-  "download_file_name": "Sunrise_cleaner.exe",
-
-  "sha256": "5a0f3f34fc2130e3d1cf04db4a8581bc177485842d57f6998d6f6013ca4d23b6",
-  "file_size_bytes": 15623546,
-  "max_file_size_bytes": 314572800,
-
-  "distribution_class": "executable",
-  "package_kind": "onefile",
-  "update_mode": "user_approved_transactional_self_replace",
-
-  "authenticode_required": true,
-  "requires_runtime_preflight": true,
-  "requires_health_marker": true,
-  "rollback_on_startup_failure": true,
-  "target_signature_required": true,
-  "unsigned_downgrade_allowed": false,
-
-  "notice_url": "https://peter-msk.github.io/Sunrise-Cleaner/notice.txt",
-  "minimum_supported_version": "2.8.0"
+  "version": "2.9.1",
+  "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/tag/v2.9.1",
+  "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/download/v2.9.1/Sunrise_cleaner.exe",
+  "sha256": "f04db940a3821baadb939e230d2640dae10fd79ebefeed1641574d6533337415",
+  "notes": "Sunrise Cleaner v2.9.1: 개발표준시방서 v1.7 적용, 공식 빌드 그룹서명, 레거시 업데이트·공지 형식 유지 및 onefile 교체 경로를 재검증한 배포 안정화 버전입니다."
 }
