@@ -2,9 +2,9 @@
   "app_name": "Sunrise Cleaner",
   "product_id": "SUNRISE-CLEANER-WIN-DESKTOP",
   "company": "Sunrise Group",
-  "version": "3.0.0",
-  "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/tag/v3.0.0",
-  "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/download/v3.0.0/Sunrise_cleaner.exe",
-  "sha256": "4ba57cc80fbe2c9b5b37d0f5bee2232c0656aa7b8ebf3b0c5d8bf806285ea343",
-  "notes": "Sunrise Cleaner v3.0.0: ActiveX 안전 판정과 함께 물리 디스크-볼륨 매핑, 오류 이벤트, SSD/NVMe 건강정보, 공간 위험도, 종합등급, 비식별 검사 추세를 통합한 FINAL R3입니다."
+  "version": "3.2.0",
+  "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/tag/v3.2.0",
+  "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/download/v3.2.0/Sunrise_cleaner.exe",
+  "sha256": "91ea0573e6634482a2a028419c775bea25834e089815abec02bceb592bc5bc7d",
+  "notes": "Sunrise Cleaner v3.2.0: ActiveX 안전 판정과 함께 물리 디스크-볼륨 매핑, 오류 이벤트, SSD/NVMe 건강정보, 공간 위험도, 종합등급, 비식별 검사 추세를 통합한 FINAL R3입니다."
 }
