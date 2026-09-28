@@ -2,9 +2,9 @@
   "app_name": "Sunrise Cleaner",
   "product_id": "SUNRISE-CLEANER-WIN-DESKTOP",
   "company": "Sunrise Group",
-  "version": "3.7.2",
-  "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/tag/v3.7.2",
-  "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/download/v3.7.2/Sunrise_cleaner.exe",
-  "sha256": "ed6abefda421de105ae59963129258110a5cb89c27f8cb1fe85fbb743cd5fee5",
-  "notes": "Sunrise Cleaner v3.7.2: 검사 진행률 표시, 관리자 모드 제거와 실행 직전 권한 재검증, 진행률 중복 렌더링 감소, 다중 드라이브 레이아웃 안정화, 홈 공지·업데이트 정리, 3D 저장공간 시각화를 반영했습니다."
+  "version": "3.7.5",
+  "release_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/tag/v3.7.5",
+  "download_url": "https://github.com/Peter-msk/Sunrise-Cleaner/releases/download/v3.7.5/Sunrise_cleaner.exe",
+  "sha256": "54eeceee43fd33c186cc04262298411915db7992844289b33967f8fe2d2bf744",
+  "notes": "Sunrise Cleaner v3.7.5: 검사 진행률 표시, 관리자 모드 제거와 실행 직전 권한 재검증, 진행률 중복 렌더링 감소, 다중 드라이브 레이아웃 안정화, 홈 공지·업데이트 정리, 3D 저장공간 시각화를 반영했습니다."
 }
