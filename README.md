@@ -1,5 +1,9 @@
 # Sunrise Cleaner
 
+![Version](https://img.shields.io/badge/version-3.7.6-1668c7)
+![플랫폼](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4)
+![Python](https://img.shields.io/badge/Python-3.1.2-1668c7)
+
 > Windows의 임시파일과 캐시를 사용자가 직접 확인·선택한 뒤 안전하게 정리하는 시스템 정리 도구
 
 ## 1. 프로그램 소개
